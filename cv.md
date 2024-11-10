@@ -23,3 +23,17 @@ The ideal thing for me would be not just to work, but to participate in the proc
 ### Languages:
 * English - (B1) 
 * Russian - Native
+
+-----
+
+### Some interestings things
+
+
+#### My favorite quotes in Russian
+
+>
+> Если бы мы просто хотели быть счастливыми, достичь этого было бы легко; но мы хотим быть счастливее других людей, а это почти невозможно, поскольку нам всегда 
+> кажется, что другие счастливее нас.
+>
+> **Шарль де Монтескье**, писатель и философ
+>
