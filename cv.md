@@ -28,21 +28,20 @@ The ideal thing for me would be not just to work, but to participate in the proc
 
 ### Education
 
-2018 - 2024 – **Belarusian State University of Transport**
-Specialization: *Mechanical Engineer*
+2018 - 2024 – **Belarusian State University of Transport**  
+Specialization: *Mechanical Engineer*  
 
-05/2023- 08/2023 – Educational Center for Programming and High Tech  **(IT-Academy)**
-Course: *Software Testing*
+05/2023 - 08/2023 – Educational Center for Programming and High Tech  **(IT-Academy)**   
+Course: *Software Testing*  
 
 
 -----
 ### Project
 
-05/2023 - 08/2023 – Trainee, Educational Center for Programming and High Tech **(IT-Academy)**
-**Project role**: Team Lead QA
-**Project description**: TaskAtom is a web application that allows users to track their tasks: plan
-work, make a schedule, track progress, keep records, communicate, stay in touch and save results.
-**Used tools / responsibilities**: TestRail, Jira, Postman, Apache
+05/2023 - 08/2023 – Trainee, Educational Center for Programming and High Tech **(IT-Academy)**   
+**Project role**: Team Lead QA  
+**Project description**: TaskAtom is a web application that allows users to track their tasks: plan work, make a schedule, track progress, keep records, communicate, stay in touch and save results.  
+**Used tools / responsibilities**: TestRail, Jira, Postman, Apache  
 
 -----
 
