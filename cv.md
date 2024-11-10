@@ -1,0 +1,14 @@
+# Eduard Shubranov
+
+### Contact information:
+
+**Telegram**: [https://t.me/ponopum] 
+**E-mail:** shubranov@yandex.ru  
+**GitHub:** shubrik
+
+----
+
+### About Me
+The ideal thing for me would be not just to work, but to participate in the process of creating something amazing. 
+
+
